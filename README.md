@@ -1,0 +1,2 @@
+# BingSiteAuth
+Template Blog
